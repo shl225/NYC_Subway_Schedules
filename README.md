@@ -2,7 +2,7 @@
 Extracted CSVs of NYC subway timetables (12/01/2024)
 
 ## Extraction
-`timetables_weekend.py` extracts all timetables from `weekend.html` and puts them in folders by weekend date ex. `Sunday_December_1_2024`. 
+`timetables_weekend.py` extracts all timetables from `weekend.html` and puts them in folders by weekend date ex. `Sunday_December_1_2024`. \\
 `timetables_weekday.py` extracts all timetables from `weekday.html` and has no special organization.
 
 ## Cleaning
