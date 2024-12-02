@@ -1,4 +1,4 @@
-# NYC_Train_Timetables
+# NYC Train Timetables
 Extracted CSVs of NYC train timetables (12/01/2024)
 
 ## Extraction
